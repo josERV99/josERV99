@@ -1,12 +1,11 @@
 ### Hola amigos 👋
 
-<!--
-**josERV99/josERV99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
-Here are some ideas to get you started:
+![](https://images.cooltext.com/5508841.png)
 
 - 🧑🎓 Soy estudiante del ITT de la carrera de Ingenieria en sistemas computacionales.
 - 👯 Me gusta realizar proyectos y trabajos en equipo.
-- 🤾‍Mis hobbies favorito son hacer ejercicio y conocer nuevos lugares.
+- 🤾‍Mis hobbies favoritos son hacer ejercicio y conocer nuevos lugares.
 - 💻 Me gusta Programar.
--->
+
